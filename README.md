@@ -1,6 +1,6 @@
 # Lay-Z-Spa WiFi App API
 
-## Inital Reverse of Android Lay-Z-Spa WiFi App / API
+## Python class wrapper for Lay-Z-Spa WiFi API
 
 **PLEASE BE VERY CAREFUL USING THE INFORMATION SHOWN HERE, YOU COULD BREAK YOUR LAY-Z-SPA!!!**
 
