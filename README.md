@@ -4,6 +4,17 @@
 
 **PLEASE BE VERY CAREFUL USING THE INFORMATION SHOWN HERE, YOU COULD BREAK YOUR LAY-Z-SPA!!!**
 
+
+Forked from: https://github.com/cyb3rl4d/Lay-Z-Spa
+
+The original included all the required information but no code. I created a Python3 Class using this very useful source of information.
+
+Either hardcode your email and password or have them as env vars.
+
+
+------
+
+
 POST JSON "/v1/auth/login" authentication request to "http://mobileapi.lay-z-spa.co.uk" with email address and 
 password parameters. Note '@' character is URI encoded so replaced with '%40', for example posting a reqest with a username
 of 'email@domain.com' and a password of 'Password' would be sent as follows:
